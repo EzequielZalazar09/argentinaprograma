@@ -1,0 +1,16 @@
+Practico N°0
+
+Respuestas
+
+1.a. El resultado es 8
+1.b. El resultado es 204
+
+2.a. El resultado es 15
+2.b. El resultado es 66.25
+
+3.a. El resultado es 10
+3.b. El resultado es 23.88
+
+4.a. El resultado es 7
+4.b. El resultado es -4.33
+4.c. El resultado es 0.26
