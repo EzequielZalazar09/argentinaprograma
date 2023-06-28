@@ -1,6 +1,6 @@
-let nombre = "Juan";
-let apellido = "Pérez";
-let edad = 30;
+let nombre = "Ezequiel";
+let apellido = "Zalazar";
+let edad = 33;
 
 
 let persona = {
